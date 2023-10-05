@@ -1,3 +1,5 @@
+![](https://github.com/andersonsmith77/andersonsmith77/blob/main/Desarrollador%20de%20software.png)
+
 ## Acerca de
 
 Desarrollando aplicaciones web del lado back-end usando Java y Spring Boot, siguiendo rigurosamente patrones de diseño reconocidos por la industria. Mi objetivo principal es garantizar la excelencia en la calidad del software. Además, brindo soporte durante todas las fases del desarrollo.
