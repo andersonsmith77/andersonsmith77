@@ -9,13 +9,12 @@ Egresado como Ingeniero en Desarrollo de Software, con conocimientos en varias �
 Doy gran importancia a la organización en mi forma de trabajar, ya que considero que es fundamental para lograr resultados de alta calidad y para impulsar mejoras constantes. Estoy dispuesto a colaborar con los demás y trabajar en equipo con el objetivo de alcanzar metas concretas.
 
 ## Actividad
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsmith77&langs_count=5&title_color=000&border_color=000)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andersonsmith77&langs_count=5&title_color=000&border_color=000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andersonsmith77&title_color=000&border_color=000" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonsmith77&langs_count=5&title_color=000&border_color=000&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonsmith77&layout=compact&langs_count=8&card_width=320&title_color=000&border_color=000" />
 </a>
 
 ## Contacto
