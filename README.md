@@ -11,7 +11,7 @@ Doy gran importancia a la organización en mi forma de trabajar, ya que consider
 ## Actividad
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andersonsmith77&card_width=150&title_color=000&border_color=000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andersonsmith77&card_width=320&title_color=000&border_color=000" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonsmith77&layout=compact&langs_count=8&card_width=320&title_color=000&border_color=000" />
