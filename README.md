@@ -11,6 +11,13 @@ Doy gran importancia a la organización en mi forma de trabajar, ya que consider
 ## Actividad
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsmith77&langs_count=5&title_color=000&border_color=000)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andersonsmith77&langs_count=5&title_color=000&border_color=000" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonsmith77&langs_count=5&title_color=000&border_color=000&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 ## Contacto
 andersonsmithcruzventura@gmail.com
 
