@@ -20,6 +20,9 @@ Doy gran importancia a la organización en mi forma de trabajar, ya que consider
 ## Lenguajes de programación
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,cs,rust,html,css&theme=light)](https://skillicons.dev)
 
+## Herramientas de desarrollo
+[![My Skills](https://skillicons.dev/icons?i=github,docker,aws&theme=light)](https://skillicons.dev)
+
 ## Contacto
 andersonsmithcruzventura@gmail.com
 
